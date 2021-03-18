@@ -1,6 +1,16 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="numpad1" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt 7" />
     <keyboard-shortcut first-keystroke="numpad0" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="numpad3" />
   </action>
 </keymap>

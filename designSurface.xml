@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.27364864864864863" />
+        <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
+        <entry key="tf/src/main/res/menu/menu_freight_document_readonly_options.xml" value="0.16655405405405405" />
+        <entry key="tf/src/main/res/menu/menu_freightdocument_options.xml" value="0.16655405405405405" />
+      </map>
+    </option>
+  </component>
+</application>
