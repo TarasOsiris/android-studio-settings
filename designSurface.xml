@@ -3,8 +3,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
+        <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freight_document_readonly_options.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freightdocument_options.xml" value="0.16655405405405405" />
