@@ -13,8 +13,10 @@
         <entry key="tf/src/main/res/layout/edit_additional_info_fragment.xml" value="0.12702702702702703" />
         <entry key="tf/src/main/res/layout/fragment_edit_vehicle.xml" value="0.19054054054054054" />
         <entry key="tf/src/main/res/layout/fragment_signing_register_controlled_temperature.xml" value="0.33" />
+        <entry key="tf/src/main/res/layout/mission_details_view.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
         <entry key="tf/src/main/res/layout/view_custom_spinner.xml" value="0.18716216216216217" />
+        <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
