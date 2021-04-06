@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
         <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.18547297297297297" />
