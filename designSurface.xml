@@ -12,7 +12,9 @@
         <entry key="tf/src/main/res/layout/bottom_button_bar_view.xml" value="0.21216216216216216" />
         <entry key="tf/src/main/res/layout/dialog_cancel_mission.xml" value="0.28445945945945944" />
         <entry key="tf/src/main/res/layout/edit_additional_info_fragment.xml" value="0.12702702702702703" />
+        <entry key="tf/src/main/res/layout/fragment_add_rti.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/layout/fragment_edit_vehicle.xml" value="0.19054054054054054" />
+        <entry key="tf/src/main/res/layout/fragment_select_predefined_rti.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/layout/fragment_signing_register_controlled_temperature.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/mission_details_view.xml" value="0.17" />
         <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
@@ -20,6 +22,7 @@
         <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.10655737704918032" />
+        <entry key="tf/src/main/res/layout/view_titled_edit_text.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freight_document_readonly_options.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freightdocument_options.xml" value="0.16655405405405405" />
