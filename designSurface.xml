@@ -5,7 +5,7 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
         <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
-        <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.27364864864864863" />
+        <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.1830601092896175" />
         <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.18547297297297297" />
         <entry key="tf/src/main/res/layout/activity_mission_details.xml" value="0.19054054054054054" />
         <entry key="tf/src/main/res/layout/activity_transfer_mission.xml" value="0.28445945945945944" />
@@ -21,6 +21,7 @@
         <entry key="tf/src/main/res/layout/predefined_rti.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
         <entry key="tf/src/main/res/layout/view_custom_spinner.xml" value="0.18716216216216217" />
+        <entry key="tf/src/main/res/layout/view_holder_clickable_goods_list_item.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.10655737704918032" />
