@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'tfapp-android'" />
+    <option name="defaultScopeName" value="Project 'tfapp-android'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.gradle</mask>
+    <option name="SEARCH_SCOPE" value="Project 'tfapp-android'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
