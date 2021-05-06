@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.25625" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.3229166666666667" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
         <entry key="tf/src/main/res/drawable/rounded_secondary_button_pressed.xml" value="0.20133779264214047" />
@@ -19,7 +19,7 @@
         <entry key="tf/src/main/res/layout/activity_login.xml" value="0.2151639344262295" />
         <entry key="tf/src/main/res/layout/activity_mission_details.xml" value="0.19054054054054054" />
         <entry key="tf/src/main/res/layout/activity_transfer_mission.xml" value="0.28445945945945944" />
-        <entry key="tf/src/main/res/layout/bottom_button_bar_view.xml" value="0.21216216216216216" />
+        <entry key="tf/src/main/res/layout/bottom_button_bar_view.xml" value="0.3765625" />
         <entry key="tf/src/main/res/layout/dialog_cancel_mission.xml" value="0.28445945945945944" />
         <entry key="tf/src/main/res/layout/dialog_large_image.xml" value="0.2" />
         <entry key="tf/src/main/res/layout/edit_additional_info_fragment.xml" value="0.12702702702702703" />
