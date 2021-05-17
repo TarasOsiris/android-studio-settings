@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.2390625" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
         <entry key="tf/src/main/res/drawable/rounded_secondary_button_pressed.xml" value="0.20133779264214047" />
@@ -16,7 +16,7 @@
         <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
         <entry key="tf/src/main/res/layout/activity_delegate_freight_document.xml" value="0.17060810810810811" />
         <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.15471311475409835" />
-        <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.18547297297297297" />
+        <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.23645833333333333" />
         <entry key="tf/src/main/res/layout/activity_location_usage_disclosure.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/activity_login.xml" value="0.2151639344262295" />
         <entry key="tf/src/main/res/layout/activity_mission_details.xml" value="0.19054054054054054" />
