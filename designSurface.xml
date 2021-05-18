@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.29270833333333335" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.32760416666666664" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_location.xml" value="0.1734375" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
@@ -43,7 +43,7 @@
         <entry key="tf/src/main/res/layout/view_holder_freight_document_role.xml" value="0.15337837837837837" />
         <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
-        <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.10655737704918032" />
+        <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.2994791666666667" />
         <entry key="tf/src/main/res/layout/view_titled_edit_text.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freight_document_readonly_options.xml" value="0.16655405405405405" />
