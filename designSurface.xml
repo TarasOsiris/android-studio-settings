@@ -15,6 +15,7 @@
         <entry key="tf/src/main/res/layout/accept_terms_and_conditions_fragment.xml" value="0.2109375" />
         <entry key="tf/src/main/res/layout/activity_account_details.xml" value="0.2109375" />
         <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
+        <entry key="tf/src/main/res/layout/activity_approval_details.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/activity_delegate_freight_document.xml" value="0.17060810810810811" />
         <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.23645833333333333" />
@@ -48,6 +49,7 @@
         <entry key="tf/src/main/res/layout/view_holder_freight_document_role.xml" value="0.3292572463768116" />
         <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
+        <entry key="tf/src/main/res/layout/view_location_of_signing.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.2994791666666667" />
         <entry key="tf/src/main/res/layout/view_titled_edit_text.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
