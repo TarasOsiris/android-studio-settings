@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.31354166666666666" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.17708333333333334" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_location.xml" value="0.1734375" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
@@ -37,6 +37,7 @@
         <entry key="tf/src/main/res/layout/fragment_signing_method_selection.xml" value="0.2791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_signing_register_controlled_temperature.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/freight_document_handling_instructions.xml" value="0.1462837837837838" />
+        <entry key="tf/src/main/res/layout/freight_document_role_info.xml" value="0.2791666666666667" />
         <entry key="tf/src/main/res/layout/mission_details_view.xml" value="0.17" />
         <entry key="tf/src/main/res/layout/predefined_rti.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/role_contact_buttons.xml" value="0.31354166666666666" />
