@@ -39,6 +39,7 @@
         <entry key="tf/src/main/res/layout/fragment_select_predefined_rti.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/fragment_signing_method_selection.xml" value="0.2791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_signing_register_controlled_temperature.xml" value="0.33" />
+        <entry key="tf/src/main/res/layout/fragment_validation_success_summary.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_without_counter_approval_signature.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/freight_document_handling_instructions.xml" value="0.1462837837837838" />
         <entry key="tf/src/main/res/layout/freight_document_role_info.xml" value="0.2791666666666667" />
