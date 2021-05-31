@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.38333333333333336" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.2578125" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_location.xml" value="0.1734375" />
         <entry key="tf/src/main/res/drawable/ic_status_transit.xml" value="0.16858108108108108" />
@@ -26,6 +26,8 @@
         <entry key="tf/src/main/res/layout/activity_mission_details.xml" value="0.19054054054054054" />
         <entry key="tf/src/main/res/layout/activity_observation_details.xml" value="0.24427083333333333" />
         <entry key="tf/src/main/res/layout/activity_structured_goods_adr.xml" value="0.24791666666666667" />
+        <entry key="tf/src/main/res/layout/activity_structured_goods_common.xml" value="0.19479166666666667" />
+        <entry key="tf/src/main/res/layout/activity_structured_goods_good.xml" value="0.19479166666666667" />
         <entry key="tf/src/main/res/layout/activity_structured_goods_returnable_transport_item.xml" value="0.24739583333333334" />
         <entry key="tf/src/main/res/layout/activity_transfer_mission.xml" value="0.28445945945945944" />
         <entry key="tf/src/main/res/layout/attachments_list.xml" value="0.24427083333333333" />
