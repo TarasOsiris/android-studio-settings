@@ -40,6 +40,7 @@
         <entry key="tf/src/main/res/layout/fragment_add_attachment.xml" value="0.1652027027027027" />
         <entry key="tf/src/main/res/layout/fragment_add_rti.xml" value="0.21824324324324323" />
         <entry key="tf/src/main/res/layout/fragment_edit_vehicle.xml" value="0.19054054054054054" />
+        <entry key="tf/src/main/res/layout/fragment_email_signing_code_signatory_information.xml" value="0.24479166666666666" />
         <entry key="tf/src/main/res/layout/fragment_freight_document_handling_instructions.xml" value="0.1462837837837838" />
         <entry key="tf/src/main/res/layout/fragment_freight_document_postage_regulation.xml" value="0.17060810810810811" />
         <entry key="tf/src/main/res/layout/fragment_freight_document_references.xml" value="0.20371621621621622" />
