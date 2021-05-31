@@ -37,6 +37,7 @@
         <entry key="tf/src/main/res/layout/dialog_large_image.xml" value="0.2" />
         <entry key="tf/src/main/res/layout/edit_additional_info_fragment.xml" value="0.12702702702702703" />
         <entry key="tf/src/main/res/layout/edit_document_role.xml" value="0.32447916666666665" />
+        <entry key="tf/src/main/res/layout/edit_role_carrier_fragment.xml" value="0.24301494476933072" />
         <entry key="tf/src/main/res/layout/edit_role_fragment.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_action_required_after_validation.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_add_attachment.xml" value="0.24427083333333333" />
@@ -64,6 +65,7 @@
         <entry key="tf/src/main/res/layout/role_contact_buttons.xml" value="0.31354166666666666" />
         <entry key="tf/src/main/res/layout/seals.xml" value="0.4270833333333333" />
         <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
+        <entry key="tf/src/main/res/layout/temperature.xml" value="0.19479166666666667" />
         <entry key="tf/src/main/res/layout/two_column_roles.xml" value="0.3292572463768116" />
         <entry key="tf/src/main/res/layout/view_custom_spinner.xml" value="0.18716216216216217" />
         <entry key="tf/src/main/res/layout/view_holder_clickable_goods_list_item.xml" value="0.2851351351351351" />
@@ -71,6 +73,7 @@
         <entry key="tf/src/main/res/layout/view_holder_freight_document_role.xml" value="0.3292572463768116" />
         <entry key="tf/src/main/res/layout/view_holder_mission.xml" value="0.10655737704918032" />
         <entry key="tf/src/main/res/layout/view_holder_mission_freight_document.xml" value="0.27364864864864863" />
+        <entry key="tf/src/main/res/layout/view_holder_review_signing_info.xml" value="0.2296875" />
         <entry key="tf/src/main/res/layout/view_holder_signing_summary.xml" value="0.4270833333333333" />
         <entry key="tf/src/main/res/layout/view_key_value_row.xml" value="0.24427083333333333" />
         <entry key="tf/src/main/res/layout/view_location_of_signing.xml" value="0.23177083333333334" />
