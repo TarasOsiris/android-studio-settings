@@ -58,7 +58,7 @@
         <entry key="tf/src/main/res/layout/fragment_without_counter_approval_signature.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/freight_document_handling_instructions.xml" value="0.29375" />
         <entry key="tf/src/main/res/layout/freight_document_role_info.xml" value="0.2791666666666667" />
-        <entry key="tf/src/main/res/layout/list_item_counterparty_tfa_check_in_validation.xml" value="0.20416666666666666" />
+        <entry key="tf/src/main/res/layout/list_item_counterparty_tfa_check_in_validation.xml" value="0.4276041666666667" />
         <entry key="tf/src/main/res/layout/list_item_counterparty_tfa_validation.xml" value="0.20416666666666666" />
         <entry key="tf/src/main/res/layout/list_item_freight_document_collapsed_overview.xml" value="0.2296875" />
         <entry key="tf/src/main/res/layout/list_item_freight_document_common_views.xml" value="0.3421875" />
