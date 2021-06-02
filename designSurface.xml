@@ -25,6 +25,7 @@
         <entry key="tf/src/main/res/layout/activity_login.xml" value="0.2151639344262295" />
         <entry key="tf/src/main/res/layout/activity_mission_details.xml" value="0.19054054054054054" />
         <entry key="tf/src/main/res/layout/activity_observation_details.xml" value="0.24427083333333333" />
+        <entry key="tf/src/main/res/layout/activity_search.xml" value="0.10677083333333333" />
         <entry key="tf/src/main/res/layout/activity_structured_goods_adr.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/activity_structured_goods_common.xml" value="0.19479166666666667" />
         <entry key="tf/src/main/res/layout/activity_structured_goods_good.xml" value="0.19479166666666667" />
@@ -58,6 +59,7 @@
         <entry key="tf/src/main/res/layout/fragment_without_counter_approval_signature.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/freight_document_handling_instructions.xml" value="0.29375" />
         <entry key="tf/src/main/res/layout/freight_document_role_info.xml" value="0.2791666666666667" />
+        <entry key="tf/src/main/res/layout/layout_loading_indicator.xml" value="0.10677083333333333" />
         <entry key="tf/src/main/res/layout/list_item_counterparty_tfa_check_in_validation.xml" value="0.4276041666666667" />
         <entry key="tf/src/main/res/layout/list_item_counterparty_tfa_validation.xml" value="0.20416666666666666" />
         <entry key="tf/src/main/res/layout/list_item_freight_document_collapsed_overview.xml" value="0.2296875" />
