@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.2953125" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.27291666666666664" />
         <entry key="../../../Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.3302083333333333" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_location.xml" value="0.1734375" />
@@ -16,7 +16,7 @@
         <entry key="tf/src/main/res/layout/accept_terms_and_conditions_fragment.xml" value="0.2109375" />
         <entry key="tf/src/main/res/layout/activity_account_details.xml" value="0.2109375" />
         <entry key="tf/src/main/res/layout/activity_application_settings.xml" value="0.27364864864864863" />
-        <entry key="tf/src/main/res/layout/activity_approval_details.xml" value="0.23177083333333334" />
+        <entry key="tf/src/main/res/layout/activity_approval_details.xml" value="0.2875905797101449" />
         <entry key="tf/src/main/res/layout/activity_delegate_freight_document.xml" value="0.17060810810810811" />
         <entry key="tf/src/main/res/layout/activity_edit_container.xml" value="0.24895833333333334" />
         <entry key="tf/src/main/res/layout/activity_edit_vehicle.xml" value="0.4270833333333333" />
@@ -46,7 +46,7 @@
         <entry key="tf/src/main/res/layout/edit_role_fragment.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_action_required_after_validation.xml" value="0.24791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_add_attachment.xml" value="0.24427083333333333" />
-        <entry key="tf/src/main/res/layout/fragment_add_rti.xml" value="0.21824324324324323" />
+        <entry key="tf/src/main/res/layout/fragment_add_rti.xml" value="0.2671875" />
         <entry key="tf/src/main/res/layout/fragment_edit_vehicle.xml" value="0.225" />
         <entry key="tf/src/main/res/layout/fragment_email_signing_code_signatory_information.xml" value="0.24479166666666666" />
         <entry key="tf/src/main/res/layout/fragment_freight_document_handling_instructions.xml" value="0.1462837837837838" />
@@ -54,6 +54,7 @@
         <entry key="tf/src/main/res/layout/fragment_freight_document_references.xml" value="0.20371621621621622" />
         <entry key="tf/src/main/res/layout/fragment_select_predefined_rti.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/fragment_select_vehicle.xml" value="0.4270833333333333" />
+        <entry key="tf/src/main/res/layout/fragment_sign_on_glass_signatory_identification.xml" value="0.3302083333333333" />
         <entry key="tf/src/main/res/layout/fragment_signing_method_selection.xml" value="0.2791666666666667" />
         <entry key="tf/src/main/res/layout/fragment_signing_register_controlled_temperature.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/fragment_validation_success_summary.xml" value="0.24791666666666667" />
@@ -72,7 +73,7 @@
         <entry key="tf/src/main/res/layout/predefined_rti.xml" value="0.2851351351351351" />
         <entry key="tf/src/main/res/layout/role_contact_buttons.xml" value="0.31354166666666666" />
         <entry key="tf/src/main/res/layout/seals.xml" value="0.4270833333333333" />
-        <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.1810810810810811" />
+        <entry key="tf/src/main/res/layout/structured_goods_list_view.xml" value="0.24479166666666666" />
         <entry key="tf/src/main/res/layout/temperature.xml" value="0.19479166666666667" />
         <entry key="tf/src/main/res/layout/two_column_roles.xml" value="0.3292572463768116" />
         <entry key="tf/src/main/res/layout/view_custom_spinner.xml" value="0.18716216216216217" />
@@ -88,7 +89,8 @@
         <entry key="tf/src/main/res/layout/view_location_of_signing.xml" value="0.23177083333333334" />
         <entry key="tf/src/main/res/layout/view_missions_overview_content.xml" value="0.2994791666666667" />
         <entry key="tf/src/main/res/layout/view_single_column_row.xml" value="0.24895833333333334" />
-        <entry key="tf/src/main/res/layout/view_titled_edit_text.xml" value="0.21824324324324323" />
+        <entry key="tf/src/main/res/layout/view_titled_edit_text.xml" value="0.23233695652173914" />
+        <entry key="tf/src/main/res/menu/menu_container.xml" value="0.2671875" />
         <entry key="tf/src/main/res/menu/menu_freight_document_overview.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freight_document_readonly_options.xml" value="0.16655405405405405" />
         <entry key="tf/src/main/res/menu/menu_freightdocument_options.xml" value="0.16655405405405405" />
