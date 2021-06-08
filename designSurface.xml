@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.3020833333333333" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.246875" />
         <entry key="../../../Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.3302083333333333" />
         <entry key="tf/src/main/res/drawable/ic_add.xml" value="0.2919732441471572" />
         <entry key="tf/src/main/res/drawable/ic_location.xml" value="0.1734375" />
@@ -20,7 +20,7 @@
         <entry key="tf/src/main/res/layout/activity_delegate_freight_document.xml" value="0.17060810810810811" />
         <entry key="tf/src/main/res/layout/activity_edit_container.xml" value="0.24895833333333334" />
         <entry key="tf/src/main/res/layout/activity_edit_vehicle.xml" value="0.4270833333333333" />
-        <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.33" />
+        <entry key="tf/src/main/res/layout/activity_freight_document.xml" value="0.2807971014492754" />
         <entry key="tf/src/main/res/layout/activity_freight_document_overview.xml" value="0.2875905797101449" />
         <entry key="tf/src/main/res/layout/activity_location_usage_disclosure.xml" value="0.33" />
         <entry key="tf/src/main/res/layout/activity_login.xml" value="0.2151639344262295" />
