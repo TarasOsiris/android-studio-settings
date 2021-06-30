@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="numpad1" />
   </action>
   <action id="CheckinProject" />
   <action id="EditorDown">
@@ -24,6 +25,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="numpad3" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="NextTab">
