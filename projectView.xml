@@ -2,5 +2,6 @@
   <component name="ProjectViewSharedSettings">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
   </component>
 </application>
