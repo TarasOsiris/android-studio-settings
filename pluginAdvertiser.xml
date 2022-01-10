@@ -524,9 +524,8 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -760,6 +759,22 @@
               <option name="myPluginId" value="com.intellij.cidr.base" />
               <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
             </plugin>
           </value>
         </entry>

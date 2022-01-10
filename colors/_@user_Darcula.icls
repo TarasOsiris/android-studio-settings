@@ -1,0 +1,24 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-11-02T13:03:53</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2020.3.1.25</property>
+    <property name="modified">2021-11-04T12:26:32</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="ffd600" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffa300" />
+    <option name="TAB_UNDERLINE" value="ffffff" />
+  </colors>
+  <attributes>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fbff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
