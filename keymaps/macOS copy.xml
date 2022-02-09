@@ -8,6 +8,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
