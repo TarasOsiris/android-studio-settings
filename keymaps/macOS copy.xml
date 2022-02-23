@@ -11,6 +11,7 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
