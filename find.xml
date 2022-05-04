@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="Project 'tfapp-android'" />
+    <option name="defaultScopeName" value="Project 'tfapp-android'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Project 'tfapp-android'" />
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
   </component>
