@@ -7,5 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.pro</mask>
   </component>
 </application>
