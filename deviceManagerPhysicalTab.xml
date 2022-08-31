@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ce021712b4d1b4c70c" />
+            <value value="a745e08b0304" />
           </Key>
         </key>
-        <name value="samsung SM-G950F" />
+        <name value="Xiaomi Mi A1" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="a745e08b0304" />
+            <value value="ce021712b4d1b4c70c" />
           </Key>
         </key>
-        <name value="Xiaomi Mi A1" />
+        <name value="samsung SM-G950F" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
