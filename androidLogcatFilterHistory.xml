@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exce" />
+    <option name="mostRecentlyUsed" value="package:com.ninevastudios.playground " />
     <option name="nonFavorites">
       <list>
-        <option value="exce" />
         <option value="package:com.ninevastudios.playground " />
+        <option value="exce" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance level:error " />
