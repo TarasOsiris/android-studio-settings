@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="facebook" />
     <option name="nonFavorites">
       <list>
+        <option value="facebook" />
+        <option value="level:error " />
+        <option value="package:com.ninevastudios.playground " />
         <option value="uri" />
         <option value="package:com.ninevastudios.playground uri" />
-        <option value="package:com.ninevastudios.playground " />
         <option value="exce" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.transfollow.tf.acceptance" />
