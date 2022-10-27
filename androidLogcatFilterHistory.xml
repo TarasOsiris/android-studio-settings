@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="faceboo" />
+    <option name="mostRecentlyUsed" value="package:com.ninevastudios.playground " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ninevastudios.playground " />
         <option value="faceboo" />
         <option value="goodiesinterm" />
         <option value="facebo" />
         <option value="facebook" />
         <option value="level:error " />
-        <option value="package:com.ninevastudios.playground " />
         <option value="uri" />
         <option value="package:com.ninevastudios.playground uri" />
         <option value="exce" />
