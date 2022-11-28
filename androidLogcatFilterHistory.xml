@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance sche" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.transfollow.tf.acceptance sche" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="xxx" />
         <option value="package:com.ninevastu" />
