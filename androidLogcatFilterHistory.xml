@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance " />
+    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance queue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.transfollow.tf.acceptance queue" />
+        <option value="package:com.transfollow.tf.acceptance intent" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.ninevastudios.playground " />
         <option value="package:com.transfollow.tf.acceptance Crashly" />
-        <option value="package:com.transfollow.tf.acceptance queue" />
         <option value="package:com.transfollow.tf.acceptance tag:QueueSyncSchedulingServiceImpl " />
         <option value="package:com.transfollow.tf.acceptance Perio" />
         <option value="package:com.transfollow.tf.acceptance Periodically " />
@@ -22,7 +23,6 @@
         <option value="faceboo" />
         <option value="goodiesinterm" />
         <option value="facebo" />
-        <option value="facebook" />
       </list>
     </option>
   </component>
