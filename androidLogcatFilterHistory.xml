@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.transfollow.tf.acceptance exec" />
         <option value="package:com.transfollow.tf.acceptance" />
@@ -22,7 +23,6 @@
         <option value="xxx" />
         <option value="package:com.ninevastu" />
         <option value="faceboo" />
-        <option value="goodiesinterm" />
       </list>
     </option>
   </component>
