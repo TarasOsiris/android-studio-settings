@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance exec" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.transfollow.tf.acceptance exec" />
         <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance queue" />
         <option value="package:com.transfollow.tf.acceptance intent" />
-        <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.ninevastudios.playground " />
         <option value="package:com.transfollow.tf.acceptance Crashly" />
         <option value="package:com.transfollow.tf.acceptance tag:QueueSyncSchedulingServiceImpl " />
