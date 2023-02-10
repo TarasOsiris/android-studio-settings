@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="callabl" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:com.transfollow.tf.acceptance" />
+        <option value="package:" />
         <option value="callabl" />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package: com.transfollow.tf.acceptance" />
@@ -11,7 +14,6 @@
         <option value="package: com.transfollow.tf.development " />
         <option value="package:mine" />
         <option value="package:com.transfollow.tf.acceptance exec" />
-        <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance queue" />
         <option value="package:com.transfollow.tf.acceptance intent" />
         <option value="package:com.ninevastudios.playground " />
@@ -21,8 +23,6 @@
         <option value="package:com.transfollow.tf.acceptance Periodically " />
         <option value="package:com.transfollow.tf.acceptance alarm" />
         <option value="package:com.transfollow.tf.acceptance level:debug " />
-        <option value="package:com.transfollow.tf.acceptance level:debug queue" />
-        <option value="package:com.transfollow.tf.acceptance perio" />
       </list>
     </option>
   </component>
