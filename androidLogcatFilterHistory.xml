@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:QueueSyncWorker " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:QueueSyncWorker " />
+        <option value="xxx" />
+        <option value="scheduling per" />
         <option value="level:error " />
         <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:" />
@@ -20,9 +23,6 @@
         <option value="package:com.transfollow.tf.acceptance Crashly" />
         <option value="package:com.transfollow.tf.acceptance tag:QueueSyncSchedulingServiceImpl " />
         <option value="package:com.transfollow.tf.acceptance Perio" />
-        <option value="package:com.transfollow.tf.acceptance Periodically " />
-        <option value="package:com.transfollow.tf.acceptance alarm" />
-        <option value="package:com.transfollow.tf.acceptance level:debug " />
       </list>
     </option>
   </component>
