@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance PreloadSer" />
+    <option name="mostRecentlyUsed" value="xxx" />
     <option name="nonFavorites">
       <list>
+        <option value="xxx" />
         <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance PreloadServiceImpl" />
@@ -13,7 +14,6 @@
         <option value="package:com.transfollow.tf.acceptance wm-" />
         <option value="package:com.transfollow.tf.acceptance QueueSyncWorker" />
         <option value="wm-" />
-        <option value="xxx" />
         <option value="QueueSyncWorker" />
         <option value="Triggering queue refresh" />
         <option value="Scheduling periodic queue refresh." />
