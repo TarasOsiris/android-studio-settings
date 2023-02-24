@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="xxx" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="scan" />
         <option value="xxx" />
         <option value="player" />
         <option value="package:com.ninevastudios.playground " />
@@ -21,8 +23,6 @@
         <option value="QueueSyncWorker" />
         <option value="Triggering queue refresh" />
         <option value="Scheduling periodic queue refresh." />
-        <option value="Scheduling per" />
-        <option value="queue" />
       </list>
     </option>
   </component>
