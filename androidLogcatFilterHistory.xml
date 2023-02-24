@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:jp.kshoji.blemidi.sample " />
     <option name="nonFavorites">
       <list>
+        <option value="package:jp.kshoji.blemidi.sample " />
         <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="level:error " />
         <option value="scan" />
@@ -22,7 +23,6 @@
         <option value="wm-" />
         <option value="QueueSyncWorker" />
         <option value="Triggering queue refresh" />
-        <option value="Scheduling periodic queue refresh." />
       </list>
     </option>
   </component>
