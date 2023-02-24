@@ -4,13 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="scan" />
         <option value="xxx" />
         <option value="player" />
         <option value="package:com.ninevastudios.playground " />
         <option value="package:com.ninevastudios.playground x" />
         <option value="package:mine " />
-        <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance PreloadServiceImpl" />
         <option value="package:com.transfollow.tf.acceptance " />
