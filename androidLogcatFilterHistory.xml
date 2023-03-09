@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="scan" />
     <option name="nonFavorites">
       <list>
+        <option value="scan" />
         <option value="level:error " />
         <option value="package:com.transfollow.tf.acceptance level:error " />
         <option value="package:com.transfollow.tf.acceptance " />
         <option value="package:com.ninevastudios.playground " />
-        <option value="scan" />
         <option value="package:jp.kshoji.blemidi.sample " />
         <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="xxx" />
