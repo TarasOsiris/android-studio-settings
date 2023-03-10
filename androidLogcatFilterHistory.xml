@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:jp.kshoji.blemidi.sample " />
+    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:jp.kshoji.blemidi.sample " />
         <option value="scan" />
         <option value="level:error " />
@@ -14,7 +15,6 @@
         <option value="player" />
         <option value="package:com.ninevastudios.playground x" />
         <option value="package:mine " />
-        <option value="package:com.transfollow.tf.acceptance" />
         <option value="package:com.transfollow.tf.acceptance PreloadServiceImpl" />
         <option value="package:com.transfollow.tf.acceptance WM" />
         <option value="package:com.transfollow.tf.acceptance xxx" />
