@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:com.transfollow.tf.acceptance time:" />
+    <option name="mostRecentlyUsed" value=" package:com.transfollow.tf.acceptance " />
     <option name="nonFavorites">
       <list>
+        <option value=" package:com.transfollow.tf.acceptance " />
         <option value=" package:com.transfollow.tf.acceptance time:" />
         <option value=" package:com.transfollow.tf.acceptance xxx" />
-        <option value=" package:com.transfollow.tf.acceptance " />
         <option value="level:error package:com.transfollow.tf.acceptance " />
         <option value="level:error " />
         <option value="package:com.transfollow.tf.acceptance level:error " />
