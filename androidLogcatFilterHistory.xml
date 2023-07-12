@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance tag:CrashlyticsLogger " />
+    <option name="mostRecentlyUsed" value="package:com.ninevastudios.playground " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ninevastudios.playground " />
         <option value="package:com.transfollow.tf.acceptance tag:CrashlyticsLogger " />
         <option value="package:com.transfollow.tf.acceptance tag:Cra" />
         <option value="package:com.transfollow.tf.acceptan" />
         <option value="package:com.transfollow.tf.acceptance tag:RoutingActivity " />
         <option value="package:com.transfollow.tf.acceptance tag:" />
         <option value="package:com.transfollow.tf.acceptance " />
-        <option value="package:com.ninevastudios.playground " />
         <option value="level:error " />
         <option value=" package:com.transfollow.tf.acceptance " />
         <option value=" package:com.transfollow.tf.acceptance time:" />
