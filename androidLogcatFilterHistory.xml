@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ninevastudios.playground " />
+    <option name="mostRecentlyUsed" value="gson" />
     <option name="nonFavorites">
       <list>
+        <option value="gson" />
+        <option value="package:com.t" />
         <option value="package:com.ninevastudios.playground " />
         <option value="package:com.transfollow.tf.acceptance tag:CrashlyticsLogger " />
         <option value="package:com.transfollow.tf.acceptance tag:Cra" />
@@ -21,8 +23,6 @@
         <option value="scan" />
         <option value="package:com.transfollow.tf.acceptance PreloadSer" />
         <option value="xxx" />
-        <option value="player" />
-        <option value="package:com.ninevastudios.playground x" />
       </list>
     </option>
   </component>
