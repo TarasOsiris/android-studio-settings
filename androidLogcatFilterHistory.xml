@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.transfollow.tf.acceptance " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.transfollow.tf.acceptance " />
         <option value="gson" />
         <option value="package:com.t" />
         <option value="package:com.ninevastudios.playground " />
@@ -11,7 +12,6 @@
         <option value="package:com.transfollow.tf.acceptan" />
         <option value="package:com.transfollow.tf.acceptance tag:RoutingActivity " />
         <option value="package:com.transfollow.tf.acceptance tag:" />
-        <option value="package:com.transfollow.tf.acceptance " />
         <option value="level:error " />
         <option value=" package:com.transfollow.tf.acceptance " />
         <option value=" package:com.transfollow.tf.acceptance time:" />
